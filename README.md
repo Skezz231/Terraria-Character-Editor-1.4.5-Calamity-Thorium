@@ -1,15 +1,49 @@
+# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support
+
 <p align="center">
   <a href="https://github.com/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
-    <img src="https://img.shields.io/badge/Download%20Now-v1.4.5%20%7C%20Windows-8b5cf6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=4c1d95" alt="Download Now">
+    <img src="https://img.shields.io/badge/Download%20Latest-v1.4.5%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest Release">
   </a>
 </p>
 
 <p align="center">
-  <em>Modern Terraria PLR Editor • Shimmer • Dead Cells • Skyblock Presets</em>
+  <img src="https://img.shields.io/github/v/release/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/total?style=flat-square&color=22c55e" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e" alt="Stars">
+  <img src="https://img.shields.io/github/license/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square" alt="License">
 </p>
 
-<!-- Твой большой скриншот сразу ниже -->
-<img width="2554" height="1384" alt="Terraria Character Editor Screenshot" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" />
+<p align="center">
+  <strong>Modern ImGui-powered .plr editor • Inventory • Journey Research • Mod-safe (Calamity, Thorium, Fargo's Souls) • Shimmer Transformations • Skyblock Presets</strong>
+</p>
+
+<p align="center">
+  <em>Powerful standalone tool for Terraria 1.4.5 "Bigger & Boulder" — edit characters, spawn modded items, unlock everything offline.</em>
+</p>
+
+---
+
+<p align="center">
+  <img width="80%" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" alt="Main Editor Interface - Inventory & Journey Research">
+  <br><br>
+  <em>Dark ImGui UI • Drag-and-drop • Live character preview • Mod support</em>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://user-images.githubusercontent.com/40578274/89720219-8a057c00-d9d8-11ea-98a1-46c151295583.png" alt="ImGui Dark Theme Example">
+  <img width="45%" src="https://forums.terraria.org/index.php?attachments/20230227010840_1-jpg.400381/" alt="Terraria Modded UI Inspiration">
+  <br><br>
+  <em>Modern dockable windows • Compact mode • Item browser with filters</em>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://cybrancee.com/learn/wp-content/uploads/2025/10/CybranceeTerrariaCustomizingMenuOutlined.png" alt="Terraria Character Creation Preview">
+  <br><br>
+  <em>Full character creator support • Hair, skin, transformations preview</em>
+</p>
+
+## Features
+...
 
 ## Why Choose This Terraria Inventory Editor in 2026?
 
@@ -247,6 +281,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
