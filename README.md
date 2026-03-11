@@ -1,4 +1,4 @@
-# Terraria 1.4.5+ Inventory & Character Studio
+# Advanced Terraria Character Editor 2025–2026 | Terraria PLR Editor 1.4.5+ | Full Mod Support (Calamity, Thorium, Fargo's Souls)
 
 <p align="center">
   <strong>Modern Terraria inventory editor, character editor and save utility for Terraria Desktop 1.4.5.6.</strong>
@@ -19,7 +19,6 @@
 
 ---
 
-# Advanced Terraria Character Editor 2025–2026 | Terraria PLR Editor 1.4.5+ | Full Mod Support (Calamity, Thorium, Fargo's Souls)
 
 **The most powerful standalone Terraria .plr character editor** for **Terraria 1.4.5 "Bigger & Boulder" update** (2025–2026).  
 Supports **Dead Cells crossover content**, **Shimmer transformations**, **Journey Mode research**, **Skyblock seed presets**, **modded items** from Calamity Mod, Thorium Mod, Fargo's Souls, Spirit Mod, The Stars Above — and doesn't break your save files.
@@ -267,4 +266,5 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
