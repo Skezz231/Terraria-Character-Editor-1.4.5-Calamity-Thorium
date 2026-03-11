@@ -1,25 +1,40 @@
-# Advanced Terraria Character Editor 2025–2026 | Terraria PLR Editor 1.4.5+ | Full Mod Support (Calamity, Thorium, Fargo's Souls)
+## Advanced Terraria Character Editor 2025–2026  
+**Terraria PLR Editor 1.4.5+ | Full Mod Support (Calamity, Thorium, Fargo's Souls, Dead Cells Crossover)**
 
 <p align="center">
-  <strong>Modern Terraria inventory editor, character editor and save utility for Terraria Desktop 1.4.5.6.</strong>
+  <strong>Modern desktop Terraria inventory editor, character creator, save editor & utility for Terraria 1.4.5 "Bigger & Boulder" and beyond.</strong>
 </p>
 
 <p align="center">
-  Edit inventory, equipment, storage, buffs, Journey research, player appearance and quick presets in one desktop app.
+  Edit inventory • equipment • vanity • buffs • Journey research • appearance • transformations • modded items • Skyblock presets — all in one powerful offline app with ImGui UI.
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">
-    <img alt="Download Windows Build" src="https://img.shields.io/badge/Download-Windows%20Build-7c3aed?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest">
+    <img src="https://img.shields.io/badge/Download%20Latest%20Release-Windows%20Build-7c3aed?style=for-the-badge&logo=windows&logoColor=white&labelColor=1e1e2e" alt="Download Latest Windows Build">
   </a>
-  <a href=".">
-    <img alt="Source Code" src="https://img.shields.io/badge/View-Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️%20Get%20Started%20Now!-v1.4.5%20Ready-00d26a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Get Started Now">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=f0f0f0" alt="View Source Code">
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/releases">
+    <img src="https://img.shields.io/badge/All%20Releases-See%20History-6366f1?style=for-the-badge&logo=git&logoColor=white&labelColor=4f46e5" alt="All Releases">
   </a>
 </p>
 
 ---
 
-<img width="2554" height="1384" alt="image" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" />
+<!-- Здесь твой большой скриншот -->
+<img width="2554" height="1384" alt="Terraria Character Editor Screenshot" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" />
+
+<p align="center">
+  <em>Beautiful ImGui interface • Drag-and-drop • Mod-safe • Auto-detects Players folder • Live preview</em>
+</p>
 
 
 ## Why Choose This Terraria Inventory Editor in 2026?
@@ -258,6 +273,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
