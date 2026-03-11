@@ -1,14 +1,12 @@
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest">
-    <img src="https://img.shields.io/badge/Download%20Latest%20Release-1.4.5%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest Release">
+  <a href="https://github.com/skez231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
+    <img src="https://img.shields.io/badge/Download%20Now-v1.4.5%20%7C%20Windows-8b5cf6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=4c1d95" alt="Download Now">
   </a>
 </p>
 
 <p align="center">
-  <strong>Advanced Terraria Character Editor • Full Mod Support • ImGui UI</strong>
+  <em>Modern Terraria PLR Editor • Shimmer • Dead Cells • Skyblock Presets</em>
 </p>
-
----
 
 <!-- Твой большой скриншот сразу ниже -->
 <img width="2554" height="1384" alt="Terraria Character Editor Screenshot" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" />
@@ -249,6 +247,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
