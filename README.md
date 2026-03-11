@@ -19,6 +19,134 @@
 
 ---
 
+# Advanced Terraria Character Editor 2025–2026 | Terraria PLR Editor 1.4.5+ | Full Mod Support (Calamity, Thorium, Fargo's Souls)
+
+**The most powerful standalone Terraria .plr character editor** for **Terraria 1.4.5 "Bigger & Boulder" update** (2025–2026).  
+Supports **Dead Cells crossover content**, **Shimmer transformations**, **Journey Mode research**, **Skyblock seed presets**, **modded items** from Calamity Mod, Thorium Mod, Fargo's Souls, Spirit Mod, The Stars Above — and doesn't break your save files.
+
+Modern **ImGui** interface • Drag-and-drop inventory • Advanced Item Browser • Auto-detect Players folder • Character preview • Safe modded item handling • Buff editor with infinite duration • Void Vault quick fill
+
+**[Download Latest Release →](https://github.com/YOUR-USERNAME/YOUR-REPO/releases)**  
+(Windows .exe ready | Build with .NET 8 / .NET 9 for best performance)
+
+Perfect alternative to Terrasavr, WinTerrEdit, TSGE, Terra Plr Edit — especially if you play **modded Terraria** or need deep **Journey Research control** and **1.4.5 Dead Cells vanity / weapons** support.
+
+## Why Choose This Terraria Inventory Editor in 2026?
+
+- Fully compatible with **Terraria 1.4.5 Bigger & Boulder** (new boulders, whips, hairstyles, Dead Cells items, secret seeds)
+- Excellent **Calamity Mod** + **Thorium Mod** support — spawn modded weapons, armors, accessories without corruption
+- Handles **Fargo's Souls**, **Spirit Mod**, **The Stars Above** items safely
+- **Skyblock start preset** + Floating Island + Celebration seed + Rainbow/Lava boulders — ideal for challenge runs
+- **Shimmer Phase**, **Werewolf**, **Merfolk**, **Bat Form**, **Rat Form**, **Wolf Form**, **Beheaded Aura** transformations preview & edit
+- **Dead Cells vanity set**, **Ram Rune charges**, whips, new 1.4.5 items & buffs
+- **Journey Mode power user tools**: full research unlock, selective research, progress viewer, reset
+- Never crashes on modded .plr files — reads unknown items gracefully
+
+Whether you're doing **Terraria Skyblock challenges**, **modded expert/master runs**, **999 stack spawning**, **infinite buffs experiments**, or just want perfect cosmetics — this editor has you covered.
+
+## Full Feature List – Terraria 1.4.5+ Character Editor
+
+### Character Basics & Appearance
+- Edit name, difficulty (**Classic / Expert / Master / Journey**)
+- Change **hair style** (60+ new in 1.4.5 supported)
+- Full **Character Creator**: Hair, Skin, Eyes, Shirt, Undershirt, Pants, Shoes
+- All transformations: Bat Form, Rat Form, Wolf Form, Merfolk, Werewolf, Shimmer Phase, Beheaded Aura
+- Random appearance generator
+
+### Inventory Management – Best in Class
+- Drag-and-drop between slots
+- Auto-sort items
+- Quick spawn to first free slot
+- Spawn 999 of any item (vanilla + modded)
+- Compact slot view mode
+- Per-slot controls: Item ID, stack size, prefix, favorite, lock, clear, swap
+
+### Equipment, Vanity, Dyes & More
+- Armor, Accessories, Dyes, Ammo, Coins
+- Full **Dead Cells vanity** support
+- **Ram Rune** charges editing
+
+### Storage Containers
+- **Piggy Bank**, **Safe**, **Defender's Forge**, **Void Vault**
+- Quick fill Void Vault with items
+- Fast transfer & bulk operations
+
+### Advanced Item Browser
+- Search by name, ID, tag
+- Filters: New in 1.4.5, Whips, Dead Cells, Boulders, mod-specific
+- Instant spawn to inventory with custom stack
+
+### Journey Research Tools
+- View research progress
+- Table of researched items
+- Research selected item
+- **Unlock everything** in one click
+- Reset research progress
+
+### Buffs & Effects Editor
+- Add buffs by ID (including new 1.4.5 buffs)
+- Edit duration (near-infinite option)
+- Refresh active buffs
+- Clear all effects
+
+### World & Preset Parameters
+- **Skyblock start** preset (instant setup)
+- **Floating island start**
+- **Rainbow boulders**, **Lava boulders**
+- **Celebration** secret seed preset
+- Spawn point X/Y editing
+
+### Mod Compatibility – Safe & Reliable
+- Calamity Mod (all items, including post-Moon Lord)
+- Thorium Mod (new classes: Healer, Bard, Thrower)
+- Fargo's Souls Mod
+- Spirit Mod
+- The Stars Above
+- Preserves modded structure — no save corruption
+
+### Modern UI & Integration
+- **ImGui** powered — dockable windows, dark theme
+- Adjustable UI scale
+- Live character preview
+- Detects running **Terraria.exe**
+- Auto-finds **Players** folder & .plr files
+- Import / export snapshots
+
+## Comparison: Why This Editor Beats Terrasavr, WinTerrEdit & Others in 2026
+
+| Feature                          | This Editor          | Terrasavr (Web)     | WinTerrEdit       | TSGE / Old Editors |
+|----------------------------------|----------------------|---------------------|-------------------|--------------------|
+| Terraria 1.4.5 Bigger & Boulder  | ✅ Full              | ✅ Partial (late)   | Partial           | ❌                 |
+| Dead Cells vanity & items        | ✅ Native            | Partial             | ❌                | ❌                 |
+| Calamity / Thorium full support  | ✅ Excellent         | Partial             | Partial           | ❌                 |
+| Modded items without breaking    | ✅ Safe read/write   | Sometimes corrupts  | Limited           | ❌                 |
+| ImGui desktop UI (fast, offline) | ✅ Modern dockable   | Web only            | Old WinForms      | Very old           |
+| Drag-and-drop + auto-sort        | ✅ Advanced          | Basic               | Basic             | ❌                 |
+| Item Browser with 1.4.5 filters  | ✅ Whips, Boulders…  | Basic               | Limited           | ❌                 |
+| Journey full unlock/reset        | ✅ One-click         | Partial             | ❌                | ❌                 |
+| Void Vault quick fill            | ✅                   | ❌                  | ❌                | ❌                 |
+| Skyblock / Celebration presets   | ✅ Instant           | ❌                  | ❌                | ❌                 |
+| Infinite buffs & transformations | ✅ All forms         | Limited             | Limited           | ❌                 |
+
+## Installation – 30 Seconds Setup
+
+1. Download from **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO/releases)**
+2. Extract ZIP
+3. Run the .exe (no install needed)
+4. It auto-detects your Terraria Players folder (`Documents\My Games\Terraria\Players`)
+5. Select .plr → edit → save (always backup first!)
+
+**Pro tip**: Make a copy of your .plr before big changes!
+
+## Build from Source (for Developers / Contributors)
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+cd YOUR-REPO
+# Open .sln in Visual Studio 2022 / 2025 or Rider
+# Target: .NET 8.0 or .NET 9.0
+# Build → Release
+
 ## Terraria save editor for inventory, character and Journey mode
 
 `Terraria 1.4.5+ Inventory & Character Studio` is a C++ desktop application built for players who want a fast and clean Terraria inventory editor with character customization tools, storage management and QoL actions.
@@ -139,3 +267,4 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
