@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/cmake_install.cmake",
+		"C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

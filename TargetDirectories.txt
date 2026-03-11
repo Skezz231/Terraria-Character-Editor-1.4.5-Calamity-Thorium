@@ -1,0 +1,13 @@
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/CMakeFiles/imgui.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/CMakeFiles/TerrariaEditor2026.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/CMakeFiles/INSTALL.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/json-build/CMakeFiles/INSTALL.dir
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/build/_deps/json-build/CMakeFiles/ALL_BUILD.dir
