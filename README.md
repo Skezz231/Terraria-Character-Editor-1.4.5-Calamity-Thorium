@@ -20,16 +20,6 @@
 ---
 
 
-**The most powerful standalone Terraria .plr character editor** for **Terraria 1.4.5 "Bigger & Boulder" update** (2025–2026).  
-Supports **Dead Cells crossover content**, **Shimmer transformations**, **Journey Mode research**, **Skyblock seed presets**, **modded items** from Calamity Mod, Thorium Mod, Fargo's Souls, Spirit Mod, The Stars Above — and doesn't break your save files.
-
-Modern **ImGui** interface • Drag-and-drop inventory • Advanced Item Browser • Auto-detect Players folder • Character preview • Safe modded item handling • Buff editor with infinite duration • Void Vault quick fill
-
-**[Download Latest Release →](https://github.com/YOUR-USERNAME/YOUR-REPO/releases)**  
-(Windows .exe ready | Build with .NET 8 / .NET 9 for best performance)
-
-Perfect alternative to Terrasavr, WinTerrEdit, TSGE, Terra Plr Edit — especially if you play **modded Terraria** or need deep **Journey Research control** and **1.4.5 Dead Cells vanity / weapons** support.
-
 ## Why Choose This Terraria Inventory Editor in 2026?
 
 - Fully compatible with **Terraria 1.4.5 Bigger & Boulder** (new boulders, whips, hairstyles, Dead Cells items, secret seeds)
@@ -266,5 +256,6 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
