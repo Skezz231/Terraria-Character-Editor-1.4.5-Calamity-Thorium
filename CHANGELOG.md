@@ -1,9 +1,26 @@
-## Changelog
+# Changelog
 
-### v1.0 (March 2026)
-- Initial release
-- Full Terraria 1.4.5 support
-- Calamity / Thorium / Fargo's Souls compatibility
-- ImGui UI with dockable windows
-- Journey full unlock/reset
-- Skyblock & Celebration presets
+All notable changes to this project will be documented in this file.
+
+The format is based on `Keep a Changelog`, and this project follows `Semantic Versioning` where practical.
+
+## [Unreleased]
+
+### Added
+- Initial GitHub-ready project structure.
+- SEO-focused `README.md` with download and source code badges.
+- Windows GitHub Actions build workflow.
+- Repository hygiene with `.gitignore`.
+- Documentation set for releases, contributing and support.
+
+## [1.0.0] - 2026-03-11
+
+### Added
+- Initial public release of `Terraria 1.4.5+ Inventory & Character Studio`.
+- Inventory editing with drag-and-drop workflow.
+- Character appearance and stat editing.
+- Storage editing for piggy bank, safe, forge and void vault.
+- Buff, transformation and Journey research tools.
+- JSON save and preset serialization.
+- Terraria player folder and process detection.
+- Windows desktop build with `CMake`, `GLFW`, `Dear ImGui` and `nlohmann/json`.
