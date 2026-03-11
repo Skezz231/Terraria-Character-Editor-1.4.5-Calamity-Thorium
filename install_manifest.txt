@@ -1,0 +1,9 @@
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/glfw3.lib
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/include/GLFW/glfw3.h
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/include/GLFW/glfw3native.h
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/cmake/glfw3/glfw3Targets-release.cmake
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/lib/pkgconfig/glfw3.pc
+C:/Users/Kimad/source/repos/Terraria 1.4.5+ Inventory & Character Studio/dist/./TerrariaEditor2026.exe

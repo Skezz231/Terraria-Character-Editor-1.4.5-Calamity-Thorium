@@ -1,0 +1,2230 @@
+{
+  "activeTransformations": [
+    1
+  ],
+  "ammo": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "armor": [
+    {
+      "favorite": true,
+      "id": 15,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": true,
+      "id": 16,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": true,
+      "id": 17,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "buffs": [
+    [
+      26,
+      900.0
+    ],
+    [
+      101,
+      1200.0
+    ],
+    [
+      222,
+      3600.0
+    ]
+  ],
+  "coins": [
+    {
+      "favorite": false,
+      "id": 71,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 9999
+    },
+    {
+      "favorite": false,
+      "id": 72,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 9999
+    },
+    {
+      "favorite": false,
+      "id": 73,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 9999
+    },
+    {
+      "favorite": false,
+      "id": 74,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 9999
+    }
+  ],
+  "difficulty": 3,
+  "dye": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "eyeColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "forge": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "hairColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "hairStyle": 144,
+  "hasDeadCellsVanity": true,
+  "health": 500,
+  "inventory": [
+    {
+      "favorite": true,
+      "id": 6,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": true,
+      "id": 8,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": true,
+      "id": 9,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 10,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 17,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 12,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 13,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 999
+    },
+    {
+      "favorite": false,
+      "id": 14,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 999
+    },
+    {
+      "favorite": false,
+      "id": 4,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 999
+    },
+    {
+      "favorite": false,
+      "id": 5,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 999
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "isSkyblockStart": true,
+  "journeyResearch": [
+    [
+      1,
+      9999
+    ],
+    [
+      2,
+      9999
+    ],
+    [
+      3,
+      9999
+    ],
+    [
+      4,
+      9999
+    ],
+    [
+      5,
+      9999
+    ],
+    [
+      6,
+      9999
+    ],
+    [
+      7,
+      9999
+    ],
+    [
+      8,
+      9999
+    ],
+    [
+      9,
+      9999
+    ],
+    [
+      10,
+      9999
+    ],
+    [
+      11,
+      9999
+    ],
+    [
+      12,
+      9999
+    ],
+    [
+      13,
+      9999
+    ],
+    [
+      14,
+      9999
+    ],
+    [
+      15,
+      9999
+    ],
+    [
+      16,
+      9999
+    ],
+    [
+      17,
+      9999
+    ],
+    [
+      18,
+      9999
+    ]
+  ],
+  "mana": 200,
+  "maxHealth": 500,
+  "maxMana": 200,
+  "name": "Terrarian 2026",
+  "pantsColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "piggyBank": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "ramRuneCharges": 3,
+  "safe": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ],
+  "shirtColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "shoeColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "skinColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "skinVariant": 2,
+  "spawnX": 420,
+  "spawnY": 128,
+  "undershirtColor": {
+    "a": 1.0,
+    "b": 1.0,
+    "g": 1.0,
+    "r": 1.0
+  },
+  "voidVault": [
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    },
+    {
+      "favorite": false,
+      "id": 0,
+      "locked": false,
+      "modDataSize": 0,
+      "prefix": 0,
+      "stack": 1
+    }
+  ]
+}

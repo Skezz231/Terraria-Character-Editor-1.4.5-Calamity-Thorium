@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\src\AppUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\src\ItemDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\src\PlayerSerialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\Kimad\source\repos\Terraria 1.4.5+ Inventory &amp; Character Studio\build\_deps\json-src\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{07CB6A91-A275-33DA-9C56-CC8B480825C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
