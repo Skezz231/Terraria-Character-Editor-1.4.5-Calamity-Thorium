@@ -19,6 +19,8 @@
 
 ---
 
+<img width="2554" height="1384" alt="image" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" />
+
 
 ## Why Choose This Terraria Inventory Editor in 2026?
 
@@ -256,6 +258,7 @@ dist/       Distribution-ready files
 ## GitHub release tip
 
 Create a tag like `v1.0.0` and push it to GitHub to generate a release build through the included workflow.
+
 
 
 
