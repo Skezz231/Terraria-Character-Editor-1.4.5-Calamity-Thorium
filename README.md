@@ -42,6 +42,35 @@
   <em>Full character creator support • Hair, skin, transformations preview</em>
 </p>
 
+<div align="center">
+
+### 📥 Где скачать и обсудить проект
+
+<p>
+  <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
+    <img src="https://img.shields.io/badge/GitHub_Releases-Последняя_версия-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases">
+  </a>
+  <a href="https://www.unknowncheats.me/forum/other-games/743004-terraria-character-editor-1-4-5-a.html">
+    <img src="https://img.shields.io/badge/UnknownCheats-Обсуждение-8A2BE2?style=for-the-badge&logo=discourse&logoColor=white" alt="UnknownCheats">
+  </a>
+  <a href="https://www.nexusmods.com/terraria/mods/167?tab=files">
+    <img src="https://img.shields.io/badge/Nexus_Mods-Загрузка-E74C3C?style=for-the-badge&logoColor=white" alt="Nexus Mods">
+  </a>
+</p>
+
+<p>
+  <a href="https://vgtimes.com/games/terraria/files/92830-terraria-character-editor-mod-support-1.4.5.html">
+    <img src="https://img.shields.io/badge/VGtimes_RU-Загрузка_(RU)-3498DB?style=for-the-badge&logoColor=white" alt="VGtimes RU">
+  </a>
+  <a href="https://vgtimes.ru/games/terraria/files/92830-terraria-character-editor-mod-sup-1-4-5.html">
+    <img src="https://img.shields.io/badge/VGtimes_RU_Alt-Альтернатива-2980B9?style=for-the-badge&logoColor=white" alt="VGtimes RU alt">
+  </a>
+</p>
+
+</div>
+
+<hr>
+
 ## Features
 ...
 
